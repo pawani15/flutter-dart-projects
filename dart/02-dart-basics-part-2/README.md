@@ -23,8 +23,7 @@ dart run 01_functions.dart
 dart run 02_lists_sets_maps.dart
 dart run 03_strings.dart
 dart run 04_oop.dart
-```clear
-
+```
 
 ## Result
 Implemented Dart programs demonstrating functions, collections, string operations and object-oriented programming.
