@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554877994069",
+    "project_id": "pawani-todo-firebase",
+    "storage_bucket": "pawani-todo-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554877994069:android:d2b6e85c1a0e5ccf0400dc",
+        "android_client_info": {
+          "package_name": "com.example.todo_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2kJTf19UU2r_vXPRa4zp4vK1urgm7OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
